@@ -1,5 +1,7 @@
 ![ujm-says-I-think-what-it-is-useful-that-is-like-flip-of-Haskell-in-cli](ujm.png)
 
+[![Hackage](https://img.shields.io/badge/Hackage-avaliable-blue.svg)](https://hackage.haskell.org/package/flip-cmd)
+
 # :gift: How to install this :gift:
 ## From source
 ```shell-session
